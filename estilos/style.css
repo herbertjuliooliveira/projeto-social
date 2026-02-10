@@ -19,7 +19,7 @@ main {
 #telefone {
     position: absolute;
     width: 311px;
-    height: 630px;
+    height: 627px;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
